@@ -9,3 +9,5 @@ The RainfallDataScapper uses an online CSV datasheet from NOAA repository at htt
 The format of the query will be in mm/dd/yyyy using digits.  
 The software will search the datasheet for the date requested. If the query matches a record on the datasheet, it will output the total rainfall for the date. 
 
+# License
+This application is under GNU General Public License, version 3 (GPLv3)
